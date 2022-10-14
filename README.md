@@ -1,4 +1,4 @@
-# ServiceBrokerListener
+# Service Broker Listener with  SqlDependecyEx
 Cross-platform .NET 4.0 (C# 4.0) and .NET Core compatible component which receives SQL Server table changes into your .net code.
 
 Take a look how it works: http://sbl.azurewebsites.net
